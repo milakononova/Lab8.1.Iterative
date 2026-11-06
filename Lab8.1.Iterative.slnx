@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Lab8.1.Iterative/Lab8.1.Iterative.vcxproj" />
+  <Project Path="UnitTest.8.1.iter/UnitTest.8.1.iter.vcxproj" />
+</Solution>
